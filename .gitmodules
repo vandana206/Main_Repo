@@ -1,0 +1,24 @@
+[submodule "Sentiment_Analysis"]
+	path = Sentiment_Analysis
+	url = https://github.com/vandana206/Sentiment_Analysis.git
+[submodule "Customer_Clustering"]
+	path = Customer_Clustering
+	url = https://github.com/vandana206/customerclusterprediction.git
+[submodule "Lung_Cancer"]
+	path = Lung_Cancer
+	url = https://github.com/vandana206/LungCancerPrediction.git
+[submodule "Titanic_Survival"]
+	path = Titanic_Survival
+	url = https://github.com/vandana206/Titanic_Survival_Prediction.git
+[submodule "Temperature"]
+	path = Temperature
+	url = https://github.com/vandana206/Temperature_Prediction.git
+[submodule "Aerofit_EDA"]
+	path = Aerofit_EDA
+	url = https://github.com/vandana206/Aerofit_Treadmill_eda.git
+[submodule "Salary_Prediction"]
+	path = Salary_Prediction
+	url = https://github.com/vandana206/Salary_Prediction_App.git
+[submodule "Diabetes"]
+	path = Diabetes
+	url = https://github.com/vandana206/Diabetese_Prediction.git
