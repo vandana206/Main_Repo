@@ -22,3 +22,6 @@
 [submodule "Diabetes"]
 	path = Diabetes
 	url = https://github.com/vandana206/Diabetese_Prediction.git
+[submodule "Generative_AI_Prompt"]
+	path = Generative_AI_Prompt
+	url = https://github.com/vandana206/Generative_AI_prompt.git
